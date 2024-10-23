@@ -1,0 +1,3330 @@
+{
+	"A1": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [],
+		"biomes": [
+			"Tropical",
+			"Tropical Ocean Water",
+			"Tropical At Land"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 4,
+		"name": "TorTuGa [PVE] Freeport",
+		"region": "",
+		"resources": [],
+		"serverCustomDatas1": ",DisableFog,DisableHeatCold,DisableRain,NPCShipNumMult,FloatsamEnabled,DisableClaimFlags,TreasureBottlesEnabled,RainIntervalMultiplier",
+		"serverCustomDatas2": ",1,0,0,0,0,1,0,0.36",
+		"serverIslandPointsMultiplier": -1,
+		"serverTemplate": "Tropical",
+		"sotd": {
+			"levelLerp": 0,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				0,
+				5000,
+				140
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"A2": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Elephant",
+			"Giraffe",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Tiger",
+			"Turtle",
+			"Wolf"
+		],
+		"biomes": [
+			"Tropical",
+			"Western Tropics",
+			"Tropical Ocean Water",
+			"Tropical At Land",
+			"Eastern Tropics"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1.3310000896453857,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVE] Tropical",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Aloe",
+			"Bark",
+			"Basalt",
+			"Bean Seed",
+			"Cedar",
+			"Chalcedony",
+			"Chert",
+			"Cilantro",
+			"Cobalt",
+			"Coconut",
+			"Copper",
+			"Crude Oil",
+			"Elderberry",
+			"Fir",
+			"Fronds",
+			"Geode",
+			"Graphite",
+			"Hemp",
+			"Honey",
+			"Iron",
+			"Jute",
+			"Lime",
+			"Limestone",
+			"Maps",
+			"Oak",
+			"Peat",
+			"Quartz",
+			"Radiolarite",
+			"Resin",
+			"Rice Seed",
+			"Sandstone",
+			"Sea Grapes",
+			"Silk",
+			"Slate",
+			"Straw",
+			"Sugarcane",
+			"Sugars",
+			"Tin",
+			"Turmeric",
+			"Twigs",
+			"Wild Beans",
+			"Wild Rice"
+		],
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",0,1.4,1.4,1.1,0.36,0.2,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Tropical",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"A3": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Cat",
+			"Cobra",
+			"Cow",
+			"Crab",
+			"Crocodile",
+			"Crow",
+			"Eel",
+			"Elephant",
+			"Giraffe",
+			"Horse",
+			"Jellyfish",
+			"Lion",
+			"Marlin",
+			"Olfend",
+			"Ostrich",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"Sheep",
+			"Squid",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Desert",
+			"Central High Desert",
+			"Central High Desert (Freeport)",
+			"Desert Ocean Water",
+			"Desert At Land"
+		],
+		"flotsam": {
+			"qualityMultiplier": 0.421875,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Desert",
+		"region": "",
+		"resources": [
+			"Agate",
+			"Bark",
+			"Basalt",
+			"Beet Seed",
+			"Bilberry",
+			"Blackberry",
+			"Brain Coral",
+			"Cactus",
+			"Cactus Seed",
+			"Cedar",
+			"Coquina",
+			"Crystal",
+			"Fir",
+			"Fire Coral",
+			"Flake Salt",
+			"Flint",
+			"FreshWater",
+			"Geode",
+			"Herkimer",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Limestone",
+			"Maize Seed",
+			"Maps",
+			"Marble",
+			"Metal",
+			"Mineral Oil",
+			"Nitre",
+			"Onion Seed",
+			"Parsley",
+			"Resin",
+			"Roots",
+			"Rushes",
+			"Salt",
+			"Sandstone",
+			"Schisandra",
+			"Seaweed",
+			"Slate",
+			"Stone",
+			"Straw",
+			"Thyme",
+			"Tin",
+			"Twigs",
+			"Wild Beet",
+			"Wild Cactus",
+			"Wild Maize",
+			"Wild Onion",
+			"Yarrow"
+		],
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult",
+		"serverCustomDatas2": ",1,1,0,0.75,5.2,5.2,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Desert",
+		"sotd": {
+			"levelLerp": 5.199999809265137,
+			"levelMinOveride": 0,
+			"levelMultiplier": 5.199999809265137,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"A4": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Bear",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Penguin",
+			"Pig",
+			"Rabbit",
+			"Seagull",
+			"Sheep",
+			"Wolf",
+			"Yeti"
+		],
+		"biomes": [
+			"Polar",
+			"Eastern Tundra",
+			"Polar Ocean Water",
+			"Polar At Land"
+		],
+		"flotsam": {
+			"qualityMultiplier": 2.4603753089904785,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Polar",
+		"region": "",
+		"resources": [
+			"Arctic Raspberry",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Bilberry",
+			"Chalcedony",
+			"Crude Oil",
+			"FreshWater",
+			"Garlic",
+			"Geode",
+			"Iridium",
+			"Iron",
+			"Kala Namak",
+			"Lignite",
+			"Limestone",
+			"Lingonberry",
+			"Maps",
+			"Marble",
+			"Nitre",
+			"Pine",
+			"Potato Seed",
+			"Quartz",
+			"Resin",
+			"Roots",
+			"Sandstone",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Tellurite",
+			"Turnip Seed",
+			"Wild Potato",
+			"Wild Turnip"
+		],
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,NPCShipNumMult",
+		"serverCustomDatas2": ",1,1.4,1.4,1.35,0,1,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Polar",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"A5": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crab",
+			"Crocodile",
+			"Crow",
+			"Eel",
+			"Elephant",
+			"Giraffe",
+			"Horse",
+			"Jellyfish",
+			"Lion",
+			"Marlin",
+			"Monkey",
+			"Olfend",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"Sheep",
+			"Spider",
+			"Squid",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Equatorial",
+			"Equator",
+			"Central Low Desert",
+			"Equatorial Ocean Water",
+			"Equatorial At Land",
+			"Western Tropics"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1.953125,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Equatorial",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Agate",
+			"Aloe",
+			"Bark",
+			"Basalt",
+			"Bean Seed",
+			"Brain Coral",
+			"Cactus Seed",
+			"Calcite",
+			"Cedar",
+			"Chert",
+			"Chickpea Seed",
+			"Cilantro",
+			"Coconut",
+			"Coquina",
+			"Cotton",
+			"Fir",
+			"Fire Coral",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Granite",
+			"Graphite",
+			"Hemp",
+			"Honey",
+			"Iodine",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Limestone",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Nitre",
+			"Oak",
+			"Oregano",
+			"Peat",
+			"Pine",
+			"Poplar",
+			"Quartz",
+			"Radiolarite",
+			"Reeds",
+			"Resin",
+			"Rice Seed",
+			"Rock Salt",
+			"Rosemary",
+			"Schisandra",
+			"Sea Grapes",
+			"Sea Salt",
+			"Seaweed",
+			"Straw",
+			"Sulfur",
+			"Thyme",
+			"Twigs",
+			"Wild Beans",
+			"Wild Cactus",
+			"Wild Chick Peas",
+			"Wild Rice"
+		],
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",0.36,1.4,1.4,1.25,0.4,0.6",
+		"serverIslandPointsMultiplier": -1,
+		"serverTemplate": "Equatorial",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"B1": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Bear",
+			"Bee",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crab",
+			"Crocodile",
+			"Crow",
+			"Eel",
+			"Elephant",
+			"Giraffe",
+			"Grand Tortugar",
+			"Horse",
+			"Jellyfish",
+			"Lion",
+			"Marlin",
+			"Monkey",
+			"Parrot",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"Sheep",
+			"Spider",
+			"Squid",
+			"Tiger",
+			"Turtle",
+			"Wolf"
+		],
+		"biomes": [
+			"Equatorial",
+			"Eastern Tropics",
+			"Equator",
+			"Equatorial Ocean Water",
+			"Equatorial At Land",
+			"Eastern Temperate"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1.953125,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVE] Equatorial",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Agate",
+			"Aloe",
+			"Ash",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Basil",
+			"Blackberry",
+			"Brain Coral",
+			"Calcite",
+			"Chalcedony",
+			"Chert",
+			"Cilantro",
+			"Cocoa",
+			"Copper",
+			"Coquina",
+			"Crude Oil",
+			"Elderberry",
+			"Fir",
+			"Fire Coral",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Granite",
+			"Graphite",
+			"Hemp",
+			"Honey",
+			"Iodine",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Lime",
+			"Limestone",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Mint",
+			"Oak",
+			"Oregano",
+			"Parsley",
+			"Poplar",
+			"Quartz",
+			"Resin",
+			"Schisandra",
+			"Sea Grapes",
+			"Sea Salt",
+			"Seaweed",
+			"Silk",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Sugarcane",
+			"Sulfur",
+			"Syrup",
+			"Thyme",
+			"Twigs"
+		],
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",0.36,1.4,1.4,1.25,0.4,0.6",
+		"serverIslandPointsMultiplier": -1,
+		"serverTemplate": "Equatorial",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"B2": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Elephant",
+			"Giraffe",
+			"Grand Tortugar",
+			"Monkey",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Spider",
+			"Tiger",
+			"Turtle",
+			"Vulture"
+		],
+		"biomes": [
+			"Temperate",
+			"Equator",
+			"Temperate Ocean Water",
+			"Temperate At Land",
+			"Central Low Desert"
+		],
+		"flotsam": {
+			"qualityMultiplier": 0.125,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVE] Temperate",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Bark",
+			"Basalt",
+			"Basil",
+			"Cactus Seed",
+			"Calcite",
+			"Cedar",
+			"Chert",
+			"Chickpea Seed",
+			"Cilantro",
+			"Cocoa",
+			"Coconut",
+			"Copper",
+			"Coquina",
+			"Cotton",
+			"Elderberry",
+			"Fir",
+			"Flake Salt",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Gum",
+			"Herkimer",
+			"Honey",
+			"Iodine",
+			"Iron",
+			"Jute",
+			"Lignite",
+			"Limestone",
+			"Maps",
+			"Marble",
+			"Oak",
+			"Olives",
+			"Opal",
+			"Oregano",
+			"Peat",
+			"Pine",
+			"Poplar",
+			"Poppy",
+			"Quartz",
+			"Reeds",
+			"Resin",
+			"Rosemary",
+			"Schisandra",
+			"Sea Grapes",
+			"Sea Salt",
+			"Slate",
+			"Straw",
+			"Strawberry",
+			"Sugarcane",
+			"Sugars",
+			"Sulfur",
+			"Thyme",
+			"Twigs",
+			"Wild Cactus",
+			"Wild Chick Peas"
+		],
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",1.4,1.4,0.5,0,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Temperate",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"B3": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Bee",
+			"Boss Eber",
+			"Boss Sentinel",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crow",
+			"Draco",
+			"Gorgon",
+			"Horse",
+			"Leatherwing",
+			"Lion",
+			"Monkey",
+			"Pig",
+			"Rattlesnake",
+			"Razortooth",
+			"RockElemental",
+			"Scorpion",
+			"Seagull",
+			"ShieldHorn",
+			"Spider",
+			"Turtle",
+			"Wolf",
+			null
+		],
+		"biomes": [
+			"Tundra",
+			"Eastern Temperate",
+			"Eastern Tropics",
+			"Eastern Temperate Mountain Peak",
+			"Ocean Water",
+			"Tundra At Land",
+			"Western Tundra",
+			"Eastern Tundra"
+		],
+		"flotsam": {
+			"qualityMultiplier": 2.74399995803833,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 5,
+		"name": "B3 [PVPVE] Golden Age Ruins",
+		"region": "",
+		"resources": [
+			"Arctic Raspberry",
+			"Ash",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Calcite",
+			"Cedar",
+			"Chalcedony",
+			"Chert",
+			"Elderberry",
+			"Fir",
+			"FreshWater",
+			"Fronds",
+			"Granite",
+			"Graphite",
+			"Hemp",
+			"Iron",
+			"Licorice",
+			"Lingonberry",
+			"Mint",
+			"Onion Seed",
+			"Oregano",
+			"Pepper Seed",
+			"Pine",
+			"Pink Salt",
+			"Poplar",
+			"Potato Seed",
+			"Radiolarite",
+			"Resin",
+			"Roots",
+			"Rosemary",
+			"Ruby",
+			"Sandstone",
+			"Schisandra",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Sulfur",
+			"Syrup",
+			"Twigs",
+			"Wild Onion",
+			"Wild Pepper",
+			"Wild Potato"
+		],
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,FogIntervalMultiplier,RainChanceForSnow",
+		"serverCustomDatas2": ",1.8,1.8,1.2,1.4,0,1,.21,.36,.5",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Tundra",
+		"sotd": {
+			"levelLerp": 1.7999999523162842,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.7999999523162842,
+			"levelOffset": 0,
+			"spawnLimits": [
+				44.400001525878906,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"B4": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Bee",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Elephant",
+			"Giraffe",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Tiger",
+			"Turtle",
+			"Wolf"
+		],
+		"biomes": [
+			"Temperate",
+			"Western Temperate",
+			"Temperate Ocean Water",
+			"Temperate At Land",
+			"Western Tropics"
+		],
+		"flotsam": {
+			"qualityMultiplier": 0.125,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Temperate",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Aloe",
+			"Ash",
+			"Bark",
+			"Basalt",
+			"Bean Seed",
+			"Blackberry",
+			"Cedar",
+			"Chamomile",
+			"Cilantro",
+			"Coconut",
+			"Crude Oil",
+			"Elderberry",
+			"Fir",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Hemp",
+			"Honey",
+			"Iron",
+			"Jute",
+			"Lime",
+			"Limestone",
+			"Maps",
+			"Nitre",
+			"Oak",
+			"Onion Seed",
+			"Opal",
+			"Parsley",
+			"Pepper Seed",
+			"Pine",
+			"Poplar",
+			"Quartz",
+			"Radiolarite",
+			"Resin",
+			"Rice Seed",
+			"Slate",
+			"Straw",
+			"Strawberry",
+			"Sugars",
+			"Sulfur",
+			"Sunstone",
+			"Syrup",
+			"Tellurite",
+			"Tin",
+			"Twigs",
+			"Wild Beans",
+			"Wild Onion",
+			"Wild Pepper",
+			"Wild Rice"
+		],
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",1.4,1.4,0.5,0,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Temperate",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"B5": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Bear",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crab",
+			"Crocodile",
+			"Crow",
+			"Eel",
+			"Elephant",
+			"Giraffe",
+			"Grand Tortugar",
+			"Horse",
+			"Jellyfish",
+			"Lion",
+			"Marlin",
+			"Monkey",
+			"Parrot",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"Sheep",
+			"Spider",
+			"Squid",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Tropical",
+			"Eastern Tropics",
+			"Tropical Ocean Water",
+			"Tropical At Land",
+			"Equator"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1.3310000896453857,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Tropical",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Agate",
+			"Aloe",
+			"Bark",
+			"Basalt",
+			"Basil",
+			"Bean Seed",
+			"Brain Coral",
+			"Cedar",
+			"Chamomile",
+			"Chert",
+			"Cilantro",
+			"Cocoa",
+			"Coconut",
+			"Copper",
+			"Crude Oil",
+			"Elderberry",
+			"Fir",
+			"Fire Coral",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Graphite",
+			"Gum",
+			"Honey",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Lime",
+			"Limestone",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Nitre",
+			"Oak",
+			"Opal",
+			"Peat",
+			"Quartz",
+			"Reeds",
+			"Resin",
+			"Rice Seed",
+			"Rock Salt",
+			"Roots",
+			"Sandstone",
+			"Sea Grapes",
+			"Seaweed",
+			"Slate",
+			"Straw",
+			"Sugars",
+			"Turmeric",
+			"Twigs",
+			"Wild Beans",
+			"Wild Rice"
+		],
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",0,1.4,1.4,1.1,0.36,0.2,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Tropical",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"C1": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Bee",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Elephant",
+			"Giraffe",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Spider",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Tropical",
+			"Tropical Ocean Water",
+			"Tropical At Land",
+			"Equator",
+			"Western Temperate",
+			"Western Tropics",
+			"Central High Desert"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1.3310000896453857,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVE] Tropical",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Aloe",
+			"Ash",
+			"Bark",
+			"Basalt",
+			"Basil",
+			"Bean Seed",
+			"Bilberry",
+			"Cactus",
+			"Cactus Seed",
+			"Calcite",
+			"Carrot Seed",
+			"Cedar",
+			"Chamomile",
+			"Chert",
+			"Chickpea Seed",
+			"Cilantro",
+			"Cobalt",
+			"Cocoa",
+			"Coconut",
+			"Copper",
+			"Coquina",
+			"Cotton",
+			"Elderberry",
+			"Fir",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Graphite",
+			"Gum",
+			"Hemp",
+			"Honey",
+			"Iodine",
+			"Iron",
+			"Jute",
+			"Licorice",
+			"Lime",
+			"Limestone",
+			"Maize Seed",
+			"Maps",
+			"Marble",
+			"Mint",
+			"Oak",
+			"Olives",
+			"Onion Seed",
+			"Oregano",
+			"Parsley",
+			"Peat",
+			"Pepper Seed",
+			"Pine",
+			"Poplar",
+			"Radiolarite",
+			"Resin",
+			"Rice Seed",
+			"Roots",
+			"Rosemary",
+			"Rushes",
+			"Sandstone",
+			"Schisandra",
+			"Sea Grapes",
+			"Sea Salt",
+			"Slate",
+			"Straw",
+			"Strawberry",
+			"Sugars",
+			"Sulfur",
+			"Sunstone",
+			"Syrup",
+			"Tellurite",
+			"Thyme",
+			"Tin",
+			"Twigs",
+			"Wild Beans",
+			"Wild Cactus",
+			"Wild Carrot",
+			"Wild Chick Peas",
+			"Wild Maize",
+			"Wild Onion",
+			"Wild Pepper",
+			"Wild Rice",
+			"Yarrow"
+		],
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",0,1.4,1.4,1.1,0.36,0.2,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Tropical",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"C2": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Bee",
+			"Boss FireElemental",
+			"Boss Kekada",
+			"Boss RockElemental",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Crocodile",
+			"Crow",
+			"Cyclops",
+			"Elephant",
+			"FireElemental",
+			"Gorgon",
+			"Leatherwing",
+			"Lion",
+			"Monkey",
+			"Parrot",
+			"Pig",
+			"Rattlesnake",
+			"Razortooth",
+			"RockElemental",
+			"Scorpion",
+			"Seagull",
+			"ShieldHorn",
+			"Spider",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf",
+			null
+		],
+		"biomes": [
+			"Equatorial",
+			"Western Temperate",
+			"Equatorial Ocean Water",
+			"Equatorial At Land",
+			"Equator",
+			"Western Tropics"
+		],
+		"flotsam": {
+			"qualityMultiplier": 2.74399995803833,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 5,
+		"name": "C2 [PVPVE] Golden Age Ruins",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Aloe",
+			"Ash",
+			"Bark",
+			"Calcite",
+			"Cedar",
+			"Chalcedony",
+			"Chert",
+			"Cilantro",
+			"Cobalt",
+			"Coconut",
+			"Coquina",
+			"Elderberry",
+			"Emerald",
+			"Fir",
+			"FreshWater",
+			"Fronds",
+			"Granite",
+			"Graphite",
+			"Hemp",
+			"Honey",
+			"Iron",
+			"Jute",
+			"Limestone",
+			"Oak",
+			"Opal",
+			"Parsley",
+			"Pine",
+			"Poplar",
+			"Radiolarite",
+			"Resin",
+			"Roots",
+			"Rosemary",
+			"Sea Grapes",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Sugarcane",
+			"Sugars",
+			"Syrup",
+			"Turmeric",
+			"Twigs"
+		],
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.8,1.8,1.2,1.4,0,1,.21,.36,0.4",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Equatorial",
+		"sotd": {
+			"levelLerp": 1.7999999523162842,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.7999999523162842,
+			"levelOffset": 0,
+			"spawnLimits": [
+				44.400001525878906,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"C3": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [],
+		"biomes": [],
+		"flotsam": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVPVE] Kraken's Lair",
+		"region": "",
+		"resources": [],
+		"serverCustomDatas1": ",DisableFog,DisableHeatCold,DisableRain,NPCShipNumMult,FloatsamEnabled,DisableClaimFlags,TreasureBottlesEnabled,RainIntervalMultiplier",
+		"serverCustomDatas2": ",1,1,1,0,0,1,0,0.36",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "EndBoss",
+		"sotd": {
+			"levelLerp": 0,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				0,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"C4": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Bear",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Mermaid",
+			"Penguin",
+			"Pig",
+			"Rabbit",
+			"RockElemental",
+			"Seagull",
+			"Sheep",
+			"ShipNPC Brig",
+			"ShipNPC Galleon",
+			"ShipNPC Schooner",
+			"Wolf",
+			"Yeti",
+			"Yeti SnowCave",
+			null
+		],
+		"biomes": [
+			"Tundra",
+			"Western Tundra",
+			"Tundra Ocean Water",
+			"Tundra At Land",
+			"Western Temperate",
+			"Polar",
+			"Eastern Tundra"
+		],
+		"flotsam": {
+			"qualityMultiplier": 2.74399995803833,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Tundra",
+		"region": "",
+		"resources": [
+			"Arctic Raspberry",
+			"Ash",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Bilberry",
+			"Calcite",
+			"Cedar",
+			"Chalcedony",
+			"Crude Oil",
+			"Edible Greens Seed",
+			"Fir",
+			"FreshWater",
+			"Garlic",
+			"Geode",
+			"Iridium",
+			"Iron",
+			"Kala Namak",
+			"Lignite",
+			"Limestone",
+			"Lingonberry",
+			"Maps",
+			"Marble",
+			"Mint",
+			"Nitre",
+			"Pine",
+			"Potato Seed",
+			"Quartz",
+			"Radiolarite",
+			"Resin",
+			"Roots",
+			"Rosemary",
+			"Sandstone",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Sulfur",
+			"Tellurite",
+			"Tin",
+			"Turnip Seed",
+			"Wild Greens",
+			"Wild Potato",
+			"Wild Turnip"
+		],
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,NPCShipNumMult",
+		"serverCustomDatas2": ",0.36,0,0.5,1.4,1.4,0.6",
+		"serverIslandPointsMultiplier": -1,
+		"serverTemplate": "Tundra",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 0.5,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"C5": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Elephant",
+			"Giraffe",
+			"Grand Tortugar",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Olfend",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Spider",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Equatorial",
+			"Equatorial Ocean Water",
+			"Equatorial At Land",
+			"Central Low Desert",
+			"Equator"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1.953125,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Equatorial",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Bark",
+			"Basalt",
+			"Basil",
+			"Cactus Seed",
+			"Chert",
+			"Chickpea Seed",
+			"Cilantro",
+			"Cocoa",
+			"Coconut",
+			"Copper",
+			"Coquina",
+			"Cotton",
+			"Elderberry",
+			"Fir",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Gum",
+			"Honey",
+			"Iodine",
+			"Iron",
+			"Jute",
+			"Limestone",
+			"Maps",
+			"Nitre",
+			"Oak",
+			"Olives",
+			"Opal",
+			"Oregano",
+			"Peat",
+			"Pine",
+			"Poplar",
+			"Poppy",
+			"Quartz",
+			"Reeds",
+			"Resin",
+			"Rock Salt",
+			"Roots",
+			"Rosemary",
+			"Schisandra",
+			"Sea Grapes",
+			"Sea Salt",
+			"Slate",
+			"Straw",
+			"Strawberry",
+			"Sugars",
+			"Sulfur",
+			"Thyme",
+			"Twigs",
+			"Wild Cactus",
+			"Wild Chick Peas"
+		],
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",0.36,1.4,1.4,1.25,0.4,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Equatorial",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"D1": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Giraffe",
+			"Horse",
+			"Lion",
+			"Olfend",
+			"Ostrich",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Desert",
+			"Central High Desert",
+			"Central Tundra",
+			"Desert At Land",
+			"Desert Ocean Water"
+		],
+		"flotsam": {
+			"qualityMultiplier": 0.421875,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVE] Desert",
+		"region": "",
+		"resources": [
+			"Bark",
+			"Basalt",
+			"Beet Seed",
+			"Bilberry",
+			"Cactus",
+			"Cactus Seed",
+			"Calcite",
+			"Cedar",
+			"Celery",
+			"Coquina",
+			"Cotton",
+			"Fir",
+			"Flake Salt",
+			"Geode",
+			"Herkimer",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Limestone",
+			"Lingonberry",
+			"Maize Seed",
+			"Maps",
+			"Marble",
+			"Nitre",
+			"Onion Seed",
+			"Opal",
+			"Oregano",
+			"Parsley",
+			"Pine",
+			"Poplar",
+			"Potato Seed",
+			"Resin",
+			"Roots",
+			"Rushes",
+			"Schisandra",
+			"Slate",
+			"Straw",
+			"Thyme",
+			"Tin",
+			"Turnip Seed",
+			"Twigs",
+			"Wild Beet",
+			"Wild Cactus",
+			"Wild Maize",
+			"Wild Onion",
+			"Wild Potato",
+			"Wild Turnip",
+			"Yarrow"
+		],
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult",
+		"serverCustomDatas2": ",1,1,0,0.75,5.2,5.2,0.6",
+		"serverIslandPointsMultiplier": -1,
+		"serverTemplate": "Desert",
+		"sotd": {
+			"levelLerp": 5.199999809265137,
+			"levelMinOveride": 0,
+			"levelMultiplier": 5.199999809265137,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"D2": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Bee",
+			"Cobra",
+			"Cow",
+			"Crab",
+			"Crocodile",
+			"Crow",
+			"Eel",
+			"Elephant",
+			"Giraffe",
+			"Horse",
+			"Jellyfish",
+			"Lion",
+			"Marlin",
+			"Monkey",
+			"Olfend",
+			"Ostrich",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"Sheep",
+			"Squid",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Tropical",
+			"Central High Desert",
+			"Central Low Desert",
+			"Tropical At Land",
+			"Tropical Ocean Water",
+			"Eastern Temperate",
+			"Eastern Temperate Mountain Peak"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1.3310000896453857,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVE] Tropical",
+		"region": "",
+		"resources": [
+			"Agate",
+			"Ash",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Beet Seed",
+			"Bilberry",
+			"Blackberry",
+			"Brain Coral",
+			"Cactus",
+			"Cactus Seed",
+			"Cedar",
+			"Chickpea Seed",
+			"Cotton",
+			"Elderberry",
+			"Fir",
+			"Fire Coral",
+			"Geode",
+			"Granite",
+			"Hemp",
+			"Iodine",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Lignite",
+			"Limestone",
+			"Maize Seed",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Mint",
+			"Nitre",
+			"Onion Seed",
+			"Oregano",
+			"Pine",
+			"Poplar",
+			"Poppy",
+			"Quartz",
+			"Radiolarite",
+			"Reeds",
+			"Resin",
+			"Rock Salt",
+			"Ruby",
+			"Rushes",
+			"Sandstone",
+			"Schisandra",
+			"Seaweed",
+			"Silk",
+			"Slate",
+			"Straw",
+			"Twigs",
+			"Wild Beet",
+			"Wild Cactus",
+			"Wild Chick Peas",
+			"Wild Maize",
+			"Wild Onion",
+			"Yarrow"
+		],
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",0,1.4,1.4,1.1,0.36,0.2,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Tropical",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"D3": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Boss Buwaya",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Crab",
+			"Crocodile",
+			"Crow",
+			"CrystalScorpion Character Boss",
+			"Eel",
+			"FireElemental",
+			"GemScorpion",
+			"Gorgon",
+			"Hydra",
+			"Jellyfish",
+			"Leatherwing",
+			"Lion",
+			"Marlin",
+			"Monkey",
+			"Parrot",
+			"Pig",
+			"Rattlesnake",
+			"Razortooth",
+			"RockElemental",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"ShieldHorn",
+			"Spider",
+			"Squid",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf",
+			null
+		],
+		"biomes": [
+			"Tropical",
+			"Eastern Tropics",
+			"Tropical At Land",
+			"Tropical Ocean Water",
+			"Central High Desert",
+			"Central Low Desert"
+		],
+		"flotsam": {
+			"qualityMultiplier": 2.74399995803833,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 5,
+		"name": "D3 [PVPVE] Golden Age Ruins",
+		"region": "",
+		"resources": [
+			"Agate",
+			"Bark",
+			"Basalt",
+			"Brain Coral",
+			"Cactus",
+			"Cactus Seed",
+			"Cedar",
+			"Chalcedony",
+			"Chert",
+			"Cilantro",
+			"Coconut",
+			"Copper",
+			"Cotton",
+			"Elderberry",
+			"Fir",
+			"Fire Coral",
+			"Flake Salt",
+			"FreshWater",
+			"Fronds",
+			"Granite",
+			"Graphite",
+			"Herkimer",
+			"Honey",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Limestone",
+			"Marble",
+			"Mineral Oil",
+			"Nitre",
+			"Oak",
+			"Olives",
+			"Oregano",
+			"Pine",
+			"Poplar",
+			"Poppy",
+			"Quartz",
+			"Reeds",
+			"Resin",
+			"Rock Salt",
+			"Roots",
+			"Sandstone",
+			"Schisandra",
+			"Seaweed",
+			"Straw",
+			"Sugars",
+			"Twigs",
+			"Wild Cactus"
+		],
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,FogIntervalMultiplier,.ChanceForCold,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.8,1.8,1.2,1.4,0,1,.21,.36,0,0.2",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Tropical",
+		"sotd": {
+			"levelLerp": 1.7999999523162842,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.7999999523162842,
+			"levelOffset": 0,
+			"spawnLimits": [
+				44.400001525878906,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"D4": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Bee",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Elephant",
+			"Giraffe",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Olfend",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Temperate",
+			"Eastern Temperate",
+			"Western Tropics",
+			"Temperate At Land",
+			"Temperate Ocean Water",
+			"Central High Desert",
+			"Eastern Tropics"
+		],
+		"flotsam": {
+			"qualityMultiplier": 0.125,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Temperate",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Aloe",
+			"Ash",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Bean Seed",
+			"Bilberry",
+			"Blackberry",
+			"Cactus",
+			"Cactus Seed",
+			"Calcite",
+			"Cedar",
+			"Cilantro",
+			"Cobalt",
+			"Coconut",
+			"Coquina",
+			"Cotton",
+			"Crude Oil",
+			"Elderberry",
+			"Fir",
+			"Flake Salt",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Granite",
+			"Graphite",
+			"Hemp",
+			"Herkimer",
+			"Honey",
+			"Iron",
+			"Jute",
+			"Licorice",
+			"Lime",
+			"Limestone",
+			"Maps",
+			"Nitre",
+			"Oak",
+			"Onion Seed",
+			"Oregano",
+			"Parsley",
+			"Peat",
+			"Pine",
+			"Poplar",
+			"Quartz",
+			"Radiolarite",
+			"Resin",
+			"Rice Seed",
+			"Ruby",
+			"Rushes",
+			"Sandstone",
+			"Schisandra",
+			"Sea Grapes",
+			"Silk",
+			"Slate",
+			"Straw",
+			"Sugarcane",
+			"Sugars",
+			"Syrup",
+			"Tin",
+			"Turmeric",
+			"Twigs",
+			"Wild Beans",
+			"Wild Cactus",
+			"Wild Onion",
+			"Wild Rice",
+			"Yarrow"
+		],
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",1.4,1.4,0.5,0,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Temperate",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"D5": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Bear",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crab",
+			"Crocodile",
+			"Crow",
+			"Eel",
+			"Elephant",
+			"Giraffe",
+			"Grand Tortugar",
+			"Horse",
+			"Jellyfish",
+			"Lion",
+			"Marlin",
+			"Monkey",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"Sheep",
+			"Spider",
+			"Squid",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Tropical",
+			"Western Tropics",
+			"Eastern Tropics",
+			"Tropical At Land",
+			"Tropical Ocean Water",
+			"Equator"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1.3310000896453857,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Tropical",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Agate",
+			"Aloe",
+			"Bark",
+			"Basalt",
+			"Basil",
+			"Bean Seed",
+			"Brain Coral",
+			"Calcite",
+			"Cedar",
+			"Chamomile",
+			"Cilantro",
+			"Cobalt",
+			"Coconut",
+			"Coquina",
+			"Crude Oil",
+			"Elderberry",
+			"Fir",
+			"Fire Coral",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Graphite",
+			"Gum",
+			"Hemp",
+			"Honey",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Lime",
+			"Limestone",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Nitre",
+			"Oak",
+			"Quartz",
+			"Radiolarite",
+			"Resin",
+			"Rice Seed",
+			"Sea Grapes",
+			"Seaweed",
+			"Slate",
+			"Straw",
+			"Sugarcane",
+			"Sugars",
+			"Thyme",
+			"Turmeric",
+			"Twigs",
+			"Wild Beans",
+			"Wild Rice"
+		],
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",0,1.4,1.4,1.1,0.36,0.2,0.6",
+		"serverIslandPointsMultiplier": -1,
+		"serverTemplate": "Tropical",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"E1": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Anglerfish",
+			"Bear",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crab",
+			"Crow",
+			"Eel",
+			"Horse",
+			"Jellyfish",
+			"Lion",
+			"Marlin",
+			"Penguin",
+			"Pig",
+			"Rabbit",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"Sheep",
+			"Squid",
+			"Wolf",
+			"Yeti"
+		],
+		"biomes": [
+			"Tundra",
+			"Polar",
+			"Eastern Tundra",
+			"Tundra At Land",
+			"Tundra Ocean Water"
+		],
+		"flotsam": {
+			"qualityMultiplier": 0.125,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVE] Tundra",
+		"region": "",
+		"resources": [
+			"Agate",
+			"Arctic Raspberry",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Bilberry",
+			"Brain Coral",
+			"Chalcedony",
+			"Crude Oil",
+			"Emerald",
+			"Fire Coral",
+			"FreshWater",
+			"Garlic",
+			"Geode",
+			"Iridium",
+			"Iron",
+			"Kala Namak",
+			"Lignite",
+			"Limestone",
+			"Lingonberry",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Mint",
+			"Nitre",
+			"Obsidian",
+			"Pine",
+			"Potato Seed",
+			"Quartz",
+			"Resin",
+			"Roots",
+			"Sandstone",
+			"Seaweed",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Turnip Seed",
+			"Wild Potato",
+			"Wild Turnip"
+		],
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,NPCShipNumMult",
+		"serverCustomDatas2": ",0.36,0,1.4,1.4,0.5,0.6",
+		"serverIslandPointsMultiplier": -1,
+		"serverTemplate": "Tundra",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"E2": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Bear",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Penguin",
+			"Pig",
+			"Rabbit",
+			"Seagull",
+			"Sheep",
+			"Wolf",
+			"Yeti"
+		],
+		"biomes": [
+			"Polar",
+			"Polar At Land",
+			"Polar Ocean Water",
+			"Eastern Tundra"
+		],
+		"flotsam": {
+			"qualityMultiplier": 2.4603753089904785,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVE] Polar",
+		"region": "",
+		"resources": [
+			"Arctic Raspberry",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Bilberry",
+			"Chalcedony",
+			"Crude Oil",
+			"Emerald",
+			"FreshWater",
+			"Garlic",
+			"Geode",
+			"Iron",
+			"Kala Namak",
+			"Lignite",
+			"Limestone",
+			"Lingonberry",
+			"Maps",
+			"Marble",
+			"Mint",
+			"Nitre",
+			"Obsidian",
+			"Pine",
+			"Potato Seed",
+			"Quartz",
+			"Resin",
+			"Roots",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Turnip Seed",
+			"Wild Potato",
+			"Wild Turnip"
+		],
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,NPCShipNumMult",
+		"serverCustomDatas2": ",1,1.4,1.4,1.35,0,1,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Polar",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"E3": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Bear",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crab",
+			"Crocodile",
+			"Crow",
+			"Eel",
+			"Elephant",
+			"Giraffe",
+			"Grand Tortugar",
+			"Horse",
+			"Jellyfish",
+			"Lion",
+			"Marlin",
+			"Monkey",
+			"Olfend",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"Sheep",
+			"Spider",
+			"Squid",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Temperate",
+			"Equator",
+			"Central Low Desert",
+			"Temperate At Land",
+			"Temperate Ocean Water"
+		],
+		"flotsam": {
+			"qualityMultiplier": 0.125,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVE] Temperate",
+		"region": "",
+		"resources": [
+			"Acai",
+			"Agate",
+			"Bark",
+			"Basalt",
+			"Brain Coral",
+			"Cactus Seed",
+			"Cedar",
+			"Chickpea Seed",
+			"Cocoa",
+			"Coquina",
+			"Cotton",
+			"Fir",
+			"Fire Coral",
+			"Flake Salt",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Gum",
+			"Herkimer",
+			"Honey",
+			"Iodine",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Lignite",
+			"Limestone",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Oak",
+			"Olives",
+			"Opal",
+			"Oregano",
+			"Peat",
+			"Pine",
+			"Poppy",
+			"Quartz",
+			"Reeds",
+			"Resin",
+			"Roots",
+			"Rosemary",
+			"Sea Grapes",
+			"Seaweed",
+			"Slate",
+			"Straw",
+			"Twigs",
+			"Wild Cactus",
+			"Wild Chick Peas"
+		],
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",1.4,1.4,0.5,0,0.6",
+		"serverIslandPointsMultiplier": -1,
+		"serverTemplate": "Temperate",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"E4": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Cat",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Elephant",
+			"Giraffe",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Olfend",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"ShipNPC Brig",
+			"ShipNPC Galleon",
+			"ShipNPC Schooner",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Tropical",
+			"Equator",
+			"Eastern Tropics",
+			"Tropical At Land",
+			"Tropical Ocean Water",
+			"Central High Desert"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1.3310000896453857,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 0,
+		"name": "[PVP] Tropical",
+		"region": "",
+		"resources": [
+			"Acerola",
+			"Bark",
+			"Basalt",
+			"Bean Seed",
+			"Bilberry",
+			"Blackberry",
+			"Cactus",
+			"Cactus Seed",
+			"Calcite",
+			"Cedar",
+			"Chert",
+			"Chickpea Seed",
+			"Cilantro",
+			"Coconut",
+			"Copper",
+			"Cotton",
+			"Crude Oil",
+			"Edible Greens",
+			"Elderberry",
+			"Fibers",
+			"Fir",
+			"Flake Salt",
+			"Flint",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Granite",
+			"Gum",
+			"Herkimer",
+			"Honey",
+			"Iodine",
+			"Iron",
+			"Jute",
+			"Limestone",
+			"Maize Seed",
+			"Maps",
+			"Nitre",
+			"Oak",
+			"Olives",
+			"Onion Seed",
+			"Oregano",
+			"Parsley",
+			"Poplar",
+			"Quartz",
+			"Resin",
+			"Rice Seed",
+			"Roots",
+			"Rushes",
+			"Sandstone",
+			"Schisandra",
+			"Sea Grapes",
+			"Sea Salt",
+			"Silk",
+			"Slate",
+			"Stone",
+			"Straw",
+			"Sugarcane",
+			"Sulfur",
+			"Thatch",
+			"Tin",
+			"Turmeric",
+			"Twigs",
+			"Wild Beans",
+			"Wild Cactus",
+			"Wild Chick Peas",
+			"Wild Maize",
+			"Wild Onion",
+			"Wild Rice",
+			"Wood",
+			"Yarrow"
+		],
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipNumMult",
+		"serverCustomDatas2": ",0,1.4,1.4,1.1,0.36,0.2,0.6",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Tropical",
+		"sotd": {
+			"levelLerp": 1.399999976158142,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1.399999976158142,
+			"levelOffset": 0,
+			"spawnLimits": [
+				22.200000762939453,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"E5": {
+		"DestEast": [
+			-1,
+			-1
+		],
+		"DestNorth": [
+			-1,
+			-1
+		],
+		"DestSouth": [
+			-1,
+			-1
+		],
+		"DestWest": [
+			-1,
+			-1
+		],
+		"animals": [],
+		"biomes": [
+			"Equatorial",
+			"Equatorial At Land",
+			"Equatorial Ocean Water"
+		],
+		"flotsam": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 4,
+		"name": "Port Royal [PVP] Freeport",
+		"region": "",
+		"resources": [],
+		"serverCustomDatas1": ",DisableFog,DisableHeatCold,DisableRain,NPCShipNumMult,FloatsamEnabled,DisableClaimFlags,TreasureBottlesEnabled,RainIntervalMultiplier",
+		"serverCustomDatas2": ",1,0,0,0,0,1,0,0.36",
+		"serverIslandPointsMultiplier": -1,
+		"serverTemplate": "Equatorial",
+		"sotd": {
+			"levelLerp": 0,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				0,
+				5000,
+				140
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 1,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	}
+}
